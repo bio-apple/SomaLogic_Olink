@@ -30,7 +30,7 @@
 
     ![Overview of the Illumina Protein Prep solution](./Overview_of_the_Illumina_Protein_Prep_solution.png)
 
-7.  Protein-capture using the SOMAScan assay
+7.  Protein-capture using the SOMAScan assay(> 9K unique human protein targets, corresponding to 11K SOMAmers, will be available in **early 2025**.)
 
     SOMAmer试剂（蓝色）包含光可裂解连接子和生物素。SOMAmer试剂结合到链霉亲和素珠子上，用于从血清或血浆中复杂的蛋白混合物中捕获特定蛋白（黄色）。
     未结合的蛋白被洗去，结合的蛋白被标记上生物素。接下来，使用紫外光破坏光可裂解连接子，将SOMAmer–蛋白复合物释放回溶液中。
