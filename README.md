@@ -16,8 +16,6 @@
 
     ![OLink3072_SomaScanv4](./Olink3072_SomaScanv4.png)
 
-
-
 3.  [Candia J, Fantoni G, Delgado-Peraza F, et al. Variability of 7K and 11K SomaScan plasma proteomics assays[J]. Journal of Proteome Research, 2024, 23(12): 5531-5539.](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.4c00667)
 
     ![SomaLogic7K](./SomaScan_7K.jpeg)
@@ -28,7 +26,7 @@
 
 5.  Olink最新产品：Olink® Explore HT：[olink-explore-ht-assay-list](./olink-explore-ht-assay-list.xlsx)
 
-6.  Overview of the Illumina Protein Prep solution
+6.  Overview of the Illumina Protein Prep solution：Samples are pooled and sequenced on the **NovaSeq 6000** or **NovaSeq X System**
 
     ![Overview of the Illumina Protein Prep solution](./Overview_of_the_Illumina_Protein_Prep_solution.png)
 
