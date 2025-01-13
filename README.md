@@ -1,10 +1,20 @@
 1.  [Katz D H, Robbins J M, Deng S, et al. Proteomic profiling platforms head to head: leveraging genetics and clinical traits to compare aptamer-and antibody-based methods[J]. Science Advances, 2022, 8(33): eabm5164.](https://www.science.org/doi/full/10.1126/sciadv.abm5164)
 
+评估了 SomaScan 1.3K（1301 种试剂）、SomaScan 5K（4979 种试剂）和 Olink Explore（1472 种试剂）三种分析技术在 Jackson Heart Study 的 568 名成年人和 HERITAGE Family Study 的 219 名参与者中的表现，
+考察了四个性能领域：精确性、准确性、分析广度以及利用详细临床表型和遗传数据的表型关联。
+研究结果显示，Olink 平台在蛋白靶标特异性和表型关联的数量上表现更为可靠，而 SomaScan 平台在蛋白质组范围内的测量精确性和分析广度方面具有更大的优势。
+
 ![Olink_SomaLogic1.3](./Olink_SomaLogic1.3K.jpg)
 
 ![Olink_SomaLogic5K](./Olink_SomaLogic5K.jpg)
 
 2.  [Eldjarn G H, Ferkingstad E, Lund S H, et al. Large-scale plasma proteomics comparisons through genetics and disease associations[J]. Nature, 2023, 622(7982): 348-358.](https://www.nature.com/articles/s41586-023-06563-x)
+
+本研究中，对UK Biobank Pharma Proteomics Project 生成的 Olink Explore 3072 数据进行了关联研究，分析了超过 50,000 名 UK Biobank 参与者（包括英国或爱尔兰、非洲和南亚血统）的血浆样本，同时结合了他们的表型和基因型数据。
+
+我们将这些结果与对 36,000 名冰岛人血浆样本进行的 SomaScan v4 研究进行了比较，其中有 1,514 人同时具备 Olink 数据。结果显示，两个平台之间的相关性较为温和。
+
+尽管两个平台检测到的顺式蛋白定量性状位点（cis-pQTLs）的绝对数量相近（Olink 平台为 2,101，SomaScan 平台为 2,120），但在具有 pQTL支持证据的检测比例上，Olink平台更高（72% 对比 43%）。
 
 ![OLink3072_SomaScanv4](./Olink3072_SomaScanv4.png)
 
