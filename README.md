@@ -1,6 +1,6 @@
 1.  [Katz D H, Robbins J M, Deng S, et al. Proteomic profiling platforms head to head: leveraging genetics and clinical traits to compare aptamer-and antibody-based methods[J]. Science Advances, 2022, 8(33): eabm5164.](https://www.science.org/doi/full/10.1126/sciadv.abm5164)
 
-    评估了 SomaScan 1.3K（1301 种试剂）、SomaScan 5K（4979 种试剂）和 Olink Explore（1472 种试剂）三种分析技术在 Jackson Heart Study 的 568 名成年人和 HERITAGE Family Study 的 219 名参与者中的表现，
+    评估了 SomaScan 1.3K（1301 种试剂）、SomaScan 5K（4979 种试剂）和 Olink Explore（1472 种试剂）三种分析技术在 Jackson Heart Study的568名成年人和 HERITAGE Family Study 的 219 名参与者中的表现，
     考察了四个性能领域：精确性、准确性、分析广度以及利用详细临床表型和遗传数据的表型关联。
     研究结果显示，Olink 平台在蛋白靶标特异性和表型关联的数量上表现更为可靠，而 SomaScan 平台在蛋白质组范围内的测量精确性和分析广度方面具有更大的优势。
 
@@ -16,6 +16,8 @@
 
     ![OLink3072_SomaScanv4](./Olink3072_SomaScanv4.png)
 
+
+
 3.  [Candia J, Fantoni G, Delgado-Peraza F, et al. Variability of 7K and 11K SomaScan plasma proteomics assays[J]. Journal of Proteome Research, 2024, 23(12): 5531-5539.](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.4c00667)
 
     ![SomaLogic7K](./SomaScan_7K.jpeg)
@@ -24,6 +26,17 @@
 
     ![SomaLogic](./Head-to-Head-Chart-v4.png)
 
-5.  Olink最新产品：Olink® Explore HT
+5.  Olink最新产品：Olink® Explore HT：[olink-explore-ht-assay-list](./olink-explore-ht-assay-list.xlsx)
 
-[olink-explore-ht-assay-list](./olink-explore-ht-assay-list.xlsx)
+6.  Overview of the Illumina Protein Prep solution
+
+    ![Overview of the Illumina Protein Prep solution](./Overview_of_the_Illumina_Protein_Prep_solution.png)
+
+7.  Protein-capture using the SOMAScan assay
+
+    SOMAmer试剂（蓝色）包含光可裂解连接子和生物素。SOMAmer试剂结合到链霉亲和素珠子上，用于从血清或血浆中复杂的蛋白混合物中捕获特定蛋白（黄色）。
+    未结合的蛋白被洗去，结合的蛋白被标记上生物素。接下来，使用紫外光破坏光可裂解连接子，将SOMAmer–蛋白复合物释放回溶液中。
+   在孵育步骤中，非特异性复合物解离，而特异性复合物保持结合。孵育步骤中加入多阴离子竞争物，防止解离的蛋白非特异性重新结合。
+    特异性的蛋白-SOMAmer试剂复合物随后被捕获到新的链霉亲和素珠子上，并通过NGS（下一代测序）进行洗脱和相对定量分析。
+
+    ![Protein-capture using the SOMAScan assay](./Protein-capture-using-the-SOMAScan-assay.png)
