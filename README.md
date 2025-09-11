@@ -54,8 +54,11 @@ https://help.connected.illumina.com/multiomics-software/dragen-protein-quantific
 
 
 Each plate:85 samples+11 controls
+
 2 plates:
+
     NovaSeq 6000 with S4 flow cell (35c):170 samples +22 controls
     NovaSeq X 10B with flow cell(100c):170 samples +22 controls
+
 4 plates:
     NovaSeq X with 25B flow cell(100c):340 samples+44  controls
