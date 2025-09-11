@@ -61,4 +61,5 @@ Each plate:85 samples+11 controls
     NovaSeq X 10B with flow cell(100c):170 samples +22 controls
 
 4 plates:
-    NovaSeq X with 25B flow cell(100c):340 samples+44  controls
+
+    NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
