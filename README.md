@@ -38,3 +38,11 @@
     特异性的蛋白-SOMAmer试剂复合物随后被捕获到新的链霉亲和素珠子上，并通过NGS（下一代测序）进行洗脱和相对定量分析。
 
     ![Protein-capture using the SOMAScan assay](./Protein-capture-using-the-SOMAScan-assay.png)
+8. 测序深度: 40M/reads per sample 测序读长：15，index=10，index=10，0
+
+9.
+    1:20k 稀释度：用于捕获高丰度的蛋白质
+    1:200 稀释度：用于捕获中等丰度的蛋白质
+    1:5 稀释度：用于捕获低丰度的蛋白质
+10. 样本标准化：12 种 SomaLogic Hybcontrols：每个样本中加入了12条核苷酸序列，用于标准化，是样本内的标准化
+11. 样本间标准化：
