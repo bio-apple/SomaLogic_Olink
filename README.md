@@ -50,10 +50,12 @@
 
 # sample sheet示例子下载
 
-https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/run-setup/sample-sheet-fields
+https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/
 
 
 Each plate:85 samples+11 controls
-
-2 plates: on S4 or 10B flow cell
-4 plates: with 25B
+2 plates:
+    NovaSeq 6000 with S4 flow cell (35c):170 samples +22 controls
+    NovaSeq X 10B with flow cell(100c):170 samples +22 controls
+4 plates:
+    NovaSeq X with 25B flow cell(100c):340 samples+44  controls
