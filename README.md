@@ -46,3 +46,14 @@
     1:5 稀释度：用于捕获低丰度的蛋白质
 10. 样本标准化：12 种 SomaLogic Hybcontrols：每个样本中加入了12条核苷酸序列，用于标准化，是样本内的标准化
 11. 样本间标准化：
+
+
+# sample sheet示例子下载
+
+https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/run-setup/sample-sheet-fields
+
+
+Each plate:85 samples+11 controls
+
+2 plates: on S4 or 10B flow cell
+4 plates: with 25B
