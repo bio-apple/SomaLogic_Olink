@@ -64,4 +64,6 @@ Each plate:85 samples+11 controls
 
     NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
 
+样本类型
+
 对血清（Serum、Serum_Calibrator、Serum_QC、Blank）或血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）样本中的蛋白质进行灵敏检测
