@@ -82,5 +82,6 @@
 ![analysis](./analysis.avif)
 
 
-12 种 SomaLogic Hybcontrols：每个样本中加入了12条核苷酸序列，用于标准化，是样本内的标准化
-11. 样本间标准化：
+7.   Coefficient of Variation (CV) 计算方法
+
+Coefficient of Variation (CV = SD(Count)/mean(Count)) 
