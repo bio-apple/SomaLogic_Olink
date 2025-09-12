@@ -45,7 +45,7 @@
 
 2. [在线user guide:https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/](https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/)
 
-3. 测序模式 Each plate:85 samples+11 controls
+3. 测序样本布局 Each plate:85 samples+11 controls
 
 ![Plate_Layout](./Plate_Layout.png)
 
