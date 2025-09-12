@@ -38,7 +38,33 @@
     特异性的蛋白-SOMAmer试剂复合物随后被捕获到新的链霉亲和素珠子上，并通过NGS（下一代测序）进行洗脱和相对定量分析。
 
     ![Protein-capture using the SOMAScan assay](./Protein-capture-using-the-SOMAScan-assay.png)
-8. 测序深度: 40M/reads per sample 测序读长：15，index=10，index=10，0
+
+# 知识点
+
+1. 测序深度: 40M/reads per sample 测序读长：15，index=10，index=10，0
+
+2. [在线user guide:https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/](https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/)
+
+3. 测序模式 Each plate:85 samples+11 controls
+
+![Plate_Layout](./Plate_Layout.png)
+
+<pre>
+    2 plates:
+    
+        NovaSeq 6000 with S4 flow cell (35c):170 samples +22 controls
+        NovaSeq X 10B with flow cell(100c):170 samples +22 controls
+    
+    4 plates:
+    
+        NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
+</pre>
+
+4.  样本类型
+<pre>
+对血清（Serum、Serum_Calibrator、Serum_QC、Blank）或血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）样本中的蛋白质进行灵敏检测
+</pre>
+
 
 9.
     1:20k 稀释度：用于捕获高丰度的蛋白质
@@ -46,24 +72,3 @@
     1:5 稀释度：用于捕获低丰度的蛋白质
 10. 样本标准化：12 种 SomaLogic Hybcontrols：每个样本中加入了12条核苷酸序列，用于标准化，是样本内的标准化
 11. 样本间标准化：
-
-
-# sample sheet示例子下载
-
-https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/
-
-
-Each plate:85 samples+11 controls
-
-2 plates:
-
-    NovaSeq 6000 with S4 flow cell (35c):170 samples +22 controls
-    NovaSeq X 10B with flow cell(100c):170 samples +22 controls
-
-4 plates:
-
-    NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
-
-样本类型
-
-对血清（Serum、Serum_Calibrator、Serum_QC、Blank）或血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）样本中的蛋白质进行灵敏检测
