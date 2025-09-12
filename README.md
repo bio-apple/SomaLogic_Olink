@@ -41,7 +41,7 @@
 
 # 知识点
 
-1. 测序深度: 40M/reads per sample 测序模式：15，index=10，index=10，0
+1. 测序深度: 40M/reads per sample 测序模式：15，index=10，index=10，0 目前只支持在NovaSeqX 分lane测序
 
 2. [在线user guide:https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/](https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/)
 
@@ -60,10 +60,14 @@
     NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
 </pre>
 
+
+
 4.  样本类型
 <pre>
 对血清（Serum、Serum_Calibrator、Serum_QC、Blank）或血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）样本中的蛋白质进行灵敏检测
 </pre>
+
+
 
 5.  实验过程
 
