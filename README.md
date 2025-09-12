@@ -62,7 +62,8 @@
 
 4.  样本类型
 <pre>
-对血清（Serum、Serum_Calibrator、Serum_QC、Blank）或血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）样本中的蛋白质进行灵敏检测
+血清（Serum、Serum_Calibrator、Serum_QC、Blank）
+血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）
 </pre>
 
 5.  实验过程
