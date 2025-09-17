@@ -113,11 +113,14 @@ Non-blank samples（Raw Counts）with less than 10 million reads，Only human pr
 
 ![scale factor](./scale_factor.png)
 
-9.  本地dragen软件版本
+10.  本地dragen软件版本
 <pre>
 FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
 EALR probe pool (AA)：DRAGEN Protein quantification v2.1
 </pre> 
 
+11. demo samplesheet
 
+[Novaseq 6000](./demo-SampleSheet_NVSQ6000_autolaunch_v2.1.0.csv)
 
+[Novaseq X](./demo-SampleSheet_NVSQX_autolaunch_v2.1.0.csv)
