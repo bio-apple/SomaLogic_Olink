@@ -78,7 +78,7 @@
 
 SOMAmer试剂对照以已知浓度加入每个样本中，在杂交前用于计算样本特异性比例因子，以归一化样本并评估质量
 
-5.  样本类型
+5.  样本类型:1个板子必须是同类型的样本要么全是serum samples or all plasma samples (cannot mix and match)不能混合
 <pre>
 血清（Serum、Serum_Calibrator、Serum_QC、Blank）
 血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）
