@@ -103,7 +103,7 @@ Non-blank samples（Raw Counts）with less than 10 million reads，Only human pr
 
 为什么空白样本会有计数，以及非人类的SOMAmer 在人类样本中会有计数？
 
-这是Illumina Protein Prep 实验背景下的一个现象，其原因是SOMAmer 的非特异性结合。在文库制备过程中，所有的样本都会经历SOMAmer 附着在磁珠、反应板的侧壁和底部。这些SOMAmer 会被带入到后续的测序环节。这也就是为什么这个实验是一个相对丰度的实验——因为有这种背景（非特异性结合）的存在，SOMAmer 计数的差异比计数的绝对值更为重要。
+这是Illumina Protein Prep 实验背景下的一个现象，其原因是SOMAmer 的非特异性结合。在文库制备过程中，所有的样本都会经历SOMAmer附着在磁珠、反应板的侧壁和底部。这些SOMAmer 会被带入到后续的测序环节。这也就是为什么这个实验是一个相对丰度的实验——因为有这种背景（非特异性结合）的存在，SOMAmer 计数的差异比计数的绝对值更为重要。
 
 8.   Coefficient of Variation (CV) 计算方法
 
