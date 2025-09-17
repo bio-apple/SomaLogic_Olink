@@ -85,3 +85,12 @@
 7.   Coefficient of Variation (CV) 计算方法
 
 Coefficient of Variation (CV = SD(Count)/mean(Count)) 
+
+8.  本地dragen软件版本
+
+FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
+EALR probe pool (AA)：DRAGEN Protein quantification v2.1
+
+
+SOMAmers reads
+
