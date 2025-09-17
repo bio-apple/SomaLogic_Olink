@@ -45,7 +45,9 @@
 
 2. [在线user guide:https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/](https://help.connected.illumina.com/multiomics-software/dragen-protein-quantification/)
 
-3. 测序样本布局 Each plate:85 samples+11 controls
+3. [关于湿实验FAQ:https://knowledge.illumina.com/library-preparation/multiomics-library-prep/library-preparation-multiomics-library-prep-faq-list](./https://knowledge.illumina.com/library-preparation/multiomics-library-prep/library-preparation-multiomics-library-prep-faq-list)
+
+4.  测序样本布局 Each plate:85 samples+11 controls
 
 ![Plate_Layout](./Plate_Layout.png)
 
@@ -60,13 +62,13 @@
     NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
 </pre>
 
-4.  样本类型
+5.  样本类型
 <pre>
 血清（Serum、Serum_Calibrator、Serum_QC、Blank）
 血浆（Plasma_QC、Plasma_Calibrator、Plasma、Blank）
 </pre>
 
-5.  实验过程
+6.  实验过程
 
 ![web_lab](./wetlab.avif)
 
@@ -77,16 +79,16 @@
 1:5 稀释度：用于捕获低丰度的蛋白质
 </pre>
 
-6.  数据分析
+7.  数据分析
 
 ![analysis](./analysis.png)
 
 
-7.   Coefficient of Variation (CV) 计算方法
+8.   Coefficient of Variation (CV) 计算方法
 
 Coefficient of Variation (CV = SD(Count)/mean(Count)) 
 
-8.  本地dragen软件版本
+9.  本地dragen软件版本
 
 FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
 EALR probe pool (AA)：DRAGEN Protein quantification v2.1
