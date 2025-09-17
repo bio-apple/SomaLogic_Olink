@@ -109,6 +109,10 @@ Non-blank samples（Raw Counts）with less than 10 million reads，Only human pr
 
 <pre>Coefficient of Variation (CV = SD(Count)/mean(Count)) </pre> 
 
+9. What is scale factor normaliza on?
+
+![scale factor](./scale_factor.png)
+
 9.  本地dragen软件版本
 <pre>
 FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
