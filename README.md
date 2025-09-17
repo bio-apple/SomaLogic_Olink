@@ -49,6 +49,10 @@
 
 4.  测序样本布局 Each plate:85 samples+11 controls
 
+[官方文档中文版本](./illumina-protein-prep-normalization-tech-note-m-gl-03205-chs.PDF)
+
+[官方文档英文本本](./illumina-protein-prep-normalization-tech-note-m-gl-03205.PDF)
+
 ![Plate_Layout](./Plate_Layout.png)
 
 <pre>
