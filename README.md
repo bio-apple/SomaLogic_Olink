@@ -79,7 +79,7 @@
 
 6.  数据分析
 
-![analysis](./analysis.avif)
+![analysis](./analysis.png)
 
 
 7.   Coefficient of Variation (CV) 计算方法
@@ -92,5 +92,4 @@ FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
 EALR probe pool (AA)：DRAGEN Protein quantification v2.1
 
 
-SOMAmers reads
 
