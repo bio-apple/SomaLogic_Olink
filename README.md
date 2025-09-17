@@ -78,7 +78,6 @@
 
 SOMAmer试剂对照以已知浓度加入每个样本中，在杂交前用于计算样本特异性比例因子，以归一化样本并评估质量
 
-
 5.  样本类型
 <pre>
 血清（Serum、Serum_Calibrator、Serum_QC、Blank）
