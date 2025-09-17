@@ -62,6 +62,23 @@
     NovaSeq X with 25B flow cell(100c):340 samples + 44 controls
 </pre>
 
+**5-Calibrator controls（完全重复的5个样本）**
+
+样本来源：A pool of matrix-matched (EDTA Plasma, Serum, Cerebral Spinal Fluid [CSF], Urine) adult, normal donor samples
+
+**3-QC samples（完全重复的3个样本）**
+
+样本来源：A pool of matrix-matched (EDTA Plasma, Serum, Urine, CSF) adult, normal donor samples (different from the Calibrator control)
+
+**3-Blank samples**
+
+样本来源：空白对照样本由纯缓冲液组成
+
+**SOMAmer试剂对照（12 SomaLogic Hybcontrols）**
+
+SOMAmer试剂对照以已知浓度加入每个样本中，在杂交前用于计算样本特异性比例因子，以归一化样本并评估质量
+
+
 5.  样本类型
 <pre>
 血清（Serum、Serum_Calibrator、Serum_QC、Blank）
