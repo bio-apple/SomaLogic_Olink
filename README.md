@@ -107,12 +107,13 @@ Non-blank samples（Raw Counts）with less than 10 million reads，Only human pr
 
 8.   Coefficient of Variation (CV) 计算方法
 
-Coefficient of Variation (CV = SD(Count)/mean(Count)) 
+<pre>Coefficient of Variation (CV = SD(Count)/mean(Count)) </pre> 
 
 9.  本地dragen软件版本
-
+<pre>
 FCR probe pool (AB) ：DRAGEN Protein quantification v2.2 or higher
 EALR probe pool (AA)：DRAGEN Protein quantification v2.1
+</pre> 
 
 
 
