@@ -104,7 +104,7 @@ Sample008,TS0000002,,Batch002,Blank,230410C,PP201013012345678-AA,1230354A,B-D01
 [Cloud_Settings],,,,,,,,
 GeneratedVersion,1.19.0.202506181955,,,,,,,
 Cloud_Workflow,ica_workflow_1,,,,,,,
-Cloud_Proteomics_Pipeline,urn:ilmn:ica:pipeline:3c55f31d-3863-4c68-94ea-a2fccdc212ed#DRAGEN_Protein_Quantification_2-1-0,,,,,,,
+Cloud_Proteomics_Pipeline,urn:ilmn:ica:4.pipeline:3c55f31d-3863-4c68-94ea-a2fccdc212ed#DRAGEN_Protein_Quantification_2-1-0,,,,,,,
 ,,,,,,,,
 [Cloud_Data],,,,,,,,
 Sample_ID,ProjectName,LibraryName,LibraryPrepKitName,IndexAdapterKitName,,,,
